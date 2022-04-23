@@ -12,6 +12,8 @@ I wanted to try the [Boruta algorithm](https://doi.org/10.18637/jss.v036.i11) fo
 - Q2 of the model using all the features: 0.94
 - Q2 of the model using the best 3 features (V5, V8, X12): 0.93
 
+Importance of the features according to Boruta:
+
 ![plot of the Boruta importance](/images/plot1.jpg)
 
 
