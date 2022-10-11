@@ -1,5 +1,5 @@
 # FeatureSelectionBoruta
-Feature selection with Boruta
+Feature selection with the Boruta algorithm.
 
 **Language: R**
 
